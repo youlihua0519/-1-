@@ -21,22 +21,22 @@ export const GESTURE_SENSITIVITY = 0.05;
 
 // 1. Logo 替换：将下面的路径换成你自己的图片路径
 // 如果你的图片叫 logo.png 放在 images 文件夹里，就写成 './images/logo.png'
-export const LOGO_URL = './images/logo.PNG'; 
+export const LOGO_URL = './images/logo.png'; 
 
 // 2. 背景音乐替换：
-export const MUSIC_URL = './music/bgm.mp3';
+export const MUSIC_URL = './music/bgm.MP3';
 
 // 3. 10张照片替换：
 // 请确保数组里恰好有 10 个路径。如果照片不够，可以重复使用。
 export const PHOTO_URLS = [
-  './images/photo_01.JPG',
-  './images/photo_02.JPG',
-  './images/photo_03.JPG',
-  './images/photo_04.JPG',
-  './images/photo_05.JPG',
-  './images/photo_06.JPG',
-  './images/photo_07.JPG',
-  './images/photo_08.JPG',
-  './images/photo_09.JPG',
-  './images/photo_10.JPG',
+  './images/photo_01.jpg',
+  './images/photo_02.jpg',
+  './images/photo_03.jpg',
+  './images/photo_04.jpg',
+  './images/photo_05.jpg',
+  './images/photo_06.jpg',
+  './images/photo_07.jpg',
+  './images/photo_08.jpg',
+  './images/photo_09.jpg',
+  './images/photo_10.jpg',
 ];
