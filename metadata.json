@@ -1,0 +1,7 @@
+{
+  "name": "Celestial Christmas Tree",
+  "description": "An immersive 3D holiday experience featuring a particle-based Christmas tree controlled by real-time hand gestures using MediaPipe and Three.js.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
